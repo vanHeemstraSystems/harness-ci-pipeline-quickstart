@@ -36,6 +36,8 @@ You'll learn how to:
  
 **NOTE**: Don't have a cluster? See [Notes](https://docs.harness.io/article/ltvkgcwpum-harness-community-edition-quickstart#notes).
 
+**NOTE**: Instead of relying on a Kubernetes Cluster provided by some outside provider, we'll be setting up our own Kubernetes Cluster using K3D (Kubernetes inside Docker). See also "K3d - How to run Kubernetes cluster locally using Rancher K3s" at https://www.youtube.com/watch?v=mCesuGk-Fks
+
 - Review Harness CD Community Edition Overview and Harness Key Concepts to establish a general understanding of Harness.
  
 **NOTE**: The Docker Compose installer is described below, but Harness also supports a [Helm installer](https://github.com/harness/harness-cd-community/blob/main/helm/README.md).
