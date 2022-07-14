@@ -4,7 +4,7 @@ Based on "Server" at https://docs.drone.io/server/overview/
 
 ## 100 - Overview
 
-This section of the documentation will help you install and configure the Drone Server and one or many Runners. A runner is a standalone daemon that polls the server for pending pipelines to execute.
+This section of the documentation will help you install and configure the Drone *Server* and one or many *Runners*. A runner is a standalone daemon that polls the server for pending pipelines to execute.
 
 ## 200 - Server Installation
 
