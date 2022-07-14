@@ -10,4 +10,4 @@ You will install the Harness Delegate in the same cluster you use for the build 
 
 Here's a quick video that provides an overview of Harness CI Enterprise:
 
-[Video: Harness CI Enterprise Demo]([https://docs.harness.io?wvideo=fsc2b05uxz](https://docs.harness.io/article/x0d77ktjw8-ci-pipeline-quickstart#video_overview))
+[Video: Harness CI Enterprise Demo](https://docs.harness.io/article/x0d77ktjw8-ci-pipeline-quickstart#video_overview)
