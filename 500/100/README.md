@@ -36,7 +36,7 @@ You'll learn how to:
  
 **NOTE**: Don't have a cluster? See [Notes](https://docs.harness.io/article/ltvkgcwpum-harness-community-edition-quickstart#notes).
 
-**NOTE**: Instead of relying on a Kubernetes Cluster provided by some outside provider, we'll be setting up our own Kubernetes Cluster using K3D (Kubernetes inside Docker). See also "K3d - How to run Kubernetes cluster locally using Rancher K3s" at https://www.youtube.com/watch?v=mCesuGk-Fks
+**NOTE**: Instead of relying on a Kubernetes Cluster provided by some outside provider, we'll be setting up our own Kubernetes Cluster using K3D (Kubernetes inside Docker). See also "K3d - How to run Kubernetes cluster locally using Rancher K3s" at https://www.youtube.com/watch?v=mCesuGk-Fks and our own repository for K3D at https://github.com/vanHeemstraSystems/k3d-headstart
 
 - Review Harness CD Community Edition Overview and Harness Key Concepts to establish a general understanding of Harness.
  
